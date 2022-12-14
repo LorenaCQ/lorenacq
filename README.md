@@ -16,7 +16,7 @@
   <img align="center" alt="Lore-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
+  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_1GEL8fQO.png">
 </div>
