@@ -2,7 +2,7 @@
 
 - 📚 Me preparando para a área de QA
 - 🌱 Me aperfeiçoando a cada dia
-- 👯 Proativa e atenda aos detalhes
+- 👯 Proativa e atenta aos detalhes
 - 😄 Pronouns: ela/dela
 
 <div align="center">
