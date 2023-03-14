@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Lorena 👋
 
-- 📚 Me preparando para a área de QA
+<!-- - 📚 Me preparando para a área de QA -->
 - 🌱 Me aperfeiçoando a cada dia
 - 👯 Proativa e atenta aos detalhes
 - 😄 Pronouns: ela/dela
