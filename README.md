@@ -17,7 +17,7 @@
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_1GEL8fQO.png">
+  <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202308/338224_p9bLCuQV.png">
 </div>
   
   ##
