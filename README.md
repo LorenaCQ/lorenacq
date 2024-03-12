@@ -17,7 +17,7 @@
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202308/338224_p9bLCuQV.png">
+  <!-- - <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202308/338224_p9bLCuQV.png"> -->
 </div>
   
   ##
@@ -25,7 +25,5 @@
   <div>
   <a href="https://instagram.com/lorena_cq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="border-radius:50%;"></a>
   <a href="https://www.linkedin.com/in/lorenacq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![snake gif](https://github.com/lorenacq/lorenacq/blob/output/github-contribution-grid-snake2.svg)
     
   </div>
